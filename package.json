@@ -1,0 +1,11 @@
+{
+  "name": "benedict",
+  "version": "1.0.0",
+  "description": "My portfolio page.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Tshaba Phomolo Benedict",
+  "license": "GPL-3.0"
+}
