@@ -1,0 +1,109 @@
+{
+  "Files": [
+    {
+      "Id": "/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/bin/Debug/net8.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/obj/Debug/net8.0/compressed/hzwuqna5zi.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/obj/Debug/net8.0/scopedcss/bundle/MyPortfolio.styles.css",
+      "PackagePath": "staticwebassets/MyPortfolio.styles.css"
+    },
+    {
+      "Id": "/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/wwwroot/css/app.css",
+      "PackagePath": "staticwebassets/css/app.css"
+    },
+    {
+      "Id": "/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/wwwroot/css/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/wwwroot/css/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/css/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/wwwroot/icon-192.png",
+      "PackagePath": "staticwebassets/icon-192.png"
+    },
+    {
+      "Id": "/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/wwwroot/images/design-desk.jpeg",
+      "PackagePath": "staticwebassets/images/design-desk.jpeg"
+    },
+    {
+      "Id": "/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/wwwroot/images/down-arrow.svg",
+      "PackagePath": "staticwebassets/images/down-arrow.svg"
+    },
+    {
+      "Id": "/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/wwwroot/images/motion-background.jpg",
+      "PackagePath": "staticwebassets/images/motion-background.jpg"
+    },
+    {
+      "Id": "/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/wwwroot/images/socials/envelope.svg",
+      "PackagePath": "staticwebassets/images/socials/envelope.svg"
+    },
+    {
+      "Id": "/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/wwwroot/images/socials/github.svg",
+      "PackagePath": "staticwebassets/images/socials/github.svg"
+    },
+    {
+      "Id": "/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/wwwroot/images/socials/linkedin.svg",
+      "PackagePath": "staticwebassets/images/socials/linkedin.svg"
+    },
+    {
+      "Id": "/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/wwwroot/images/socials/microsoft.svg",
+      "PackagePath": "staticwebassets/images/socials/microsoft.svg"
+    },
+    {
+      "Id": "/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/wwwroot/images/woman-with-tablet.jpg",
+      "PackagePath": "staticwebassets/images/woman-with-tablet.jpg"
+    },
+    {
+      "Id": "/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/wwwroot/sample-data/aboutme.json",
+      "PackagePath": "staticwebassets/sample-data/aboutme.json"
+    },
+    {
+      "Id": "/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/wwwroot/sample-data/heroimages.json",
+      "PackagePath": "staticwebassets/sample-data/heroimages.json"
+    },
+    {
+      "Id": "/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/wwwroot/sample-data/projects.json",
+      "PackagePath": "staticwebassets/sample-data/projects.json"
+    },
+    {
+      "Id": "/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/wwwroot/sample-data/siteproperties.json",
+      "PackagePath": "staticwebassets/sample-data/siteproperties.json"
+    },
+    {
+      "Id": "/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/wwwroot/sample-data/socialicons.json",
+      "PackagePath": "staticwebassets/sample-data/socialicons.json"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.MyPortfolio.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.MyPortfolio.props",
+      "PackagePath": "build\\MyPortfolio.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.MyPortfolio.props",
+      "PackagePath": "buildMultiTargeting\\MyPortfolio.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.MyPortfolio.props",
+      "PackagePath": "buildTransitive\\MyPortfolio.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

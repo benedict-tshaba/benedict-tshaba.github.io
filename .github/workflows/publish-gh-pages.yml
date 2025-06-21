@@ -1,0 +1,25 @@
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'MyPortfolio/**'
+
+- name: Restore NuGet packages
+    shell: bash
+    run: |
+    dotnet restore .
+
+- name: Build solution
+    shell: bash
+    run: |
+    dotnet build . -c Release
+
+- name: Test solution
+    shell: bash
+    run: |
+    dotnet test . -c Release
+
+- name: Publish artifact
+    shell: bash
+    run: |
+    dotnet publish ./MyPortfolio -c Release -o published

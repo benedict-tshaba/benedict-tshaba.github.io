@@ -1,0 +1,63 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = MyPortfolio
+build_property.RootNamespace = MyPortfolio
+build_property.ProjectDir = /home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/Components/About.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BYm91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/Components/Hero.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9IZXJvLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/Components/Portfolio.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Qb3J0Zm9saW8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/Pages/Blog.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQmxvZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSG9tZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/Components/Footer.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Gb290ZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-r0lyisah0o
+
+[/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/Components/Header.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9IZWFkZXIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-vol0je3b85
+
+[/home/phomolo/Phomolo-Learn/benedict-tshaba.github.io/MyPortfolio/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0L01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-v5e7apnfn7

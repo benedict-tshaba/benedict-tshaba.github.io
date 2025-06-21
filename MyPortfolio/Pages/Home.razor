@@ -1,0 +1,29 @@
+@page "/"
+@using System.Net.Http.Json
+@using MyPortfolio.Components
+@using MyPortfolio.Models
+@inject HttpClient Http;
+
+<PageTitle>My Portfolio</PageTitle>
+
+@if (heroImages is null)
+{
+  <p><em>Loading...</em></p>
+}
+else
+{
+  <Header />
+  <Hero Http="@Http" HeroImages="@heroImages" />
+  <About Http="@Http" HeroImages="@heroImages" />
+  <Portfolio Http="@Http" HeroImages="@heroImages" />
+  <Footer Http="@Http" BackgroundColor="#4E567E" />
+}
+
+@code {
+  private List<HeroImage>? heroImages;
+
+  protected override async Task OnInitializedAsync()
+  {
+    heroImages = await Http.GetFromJsonAsync<List<HeroImage>>("sample-data/heroimages.json");
+  }
+}
