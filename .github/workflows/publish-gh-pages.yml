@@ -44,7 +44,7 @@ jobs:
     - name: Set basepath on JSON objects
       shell: pwsh
       run: |
-        $filepath = "./src/MyPortfolio/wwwroot/sample-data"
+        $filepath = "./MyPortfolio/wwwroot/sample-data"
         $repository = "${{ github.repository }}" -replace "${{ github.repository_owner }}", ""
 
         Get-ChildItem -Path $filepath -Filter "*.json" | ForEach-Object {
@@ -55,17 +55,17 @@ jobs:
     - name: Restore NuGet packages
       shell: bash
       run: |
-        dotnet restore ./src
+        dotnet restore .
 
     - name: Build solution
       shell: bash
       run: |
-        dotnet build ./src -c Release
+        dotnet build . -c Release
 
     - name: Test solution
       shell: bash
       run: |
-        dotnet test ./src -c Release
+        dotnet test . -c Release
 
     - name: Publish artifact
       shell: bash
